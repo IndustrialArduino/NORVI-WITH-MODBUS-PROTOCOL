@@ -5,8 +5,7 @@ NORVI devices are cutting-edge technological solutions designed to enhance effic
 
 
 MODBUS Protocol
-MODBUS is a serial communication protocol developed by Modicon and published by Modicon in 1979 for use with its programmable logic controllers (PLCs). In simple terms, it is a method used for transmitting information over serial lines between electronic devices. The device requesting the information is called the MODBUS Master(Client) and the devices supplying information are MODBUS Slave (Servers). A standard MODBUS network has one master and up to 247 Slaves, each with a unique Slave ID from 1 to 247. The master can also write information to the Slaves. 
-
+MODBUS is a serial communication protocol developed by Modicon and published by Modicon in 1979 for use with its programmable logic controllers (PLCs). In simple terms, it is a method used for transmitting information over serial lines between electronic devices. The device requesting the information is called the MODBUS Master(Client) and the devices supplying information are MODBUS Slave (Servers). 
 
 Several versions of the MODBUS protocol exist for the serial port and Ethernet and the most common are:
 – MODBUS RTU
